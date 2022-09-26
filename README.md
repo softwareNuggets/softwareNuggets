@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @softwareNuggets aka Scott Johnson
 - 👀 I’m interested in Programming, Travel, Movies
-- 🌱 I make youtube videos on learning Python, PostgreSQL, TypeScript, SqlServer TSQL, C#, C
-- 📫 How to reach me send email to me at: softwareNugget65@gmail.com
+- 🌱 I make YouTube videos about: Python, PostgreSQL, TypeScript, SqlServer TSQL, C#, C, VBA
+- 📫 How to reach me by email: softwareNugget65@gmail.com
 
 <!---
 Hey Team,
