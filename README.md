@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @softwareNuggets
-- 👀 I’m interested in Programming, Travel, Movies
+- 👀 I’m interested in Programming
 - 🌱 I make YouTube videos about: C#, Python, PostgreSQL, SqlServer TSQL, TypeScript, Angular, C, VBA
 - 📫 How to reach me by email: softwareNugget65@gmail.com
 
