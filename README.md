@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @softwareNuggets
 - 👀 I’m interested in Programming
 - 🌱 I make YouTube videos about: C#, Python, PostgreSQL, SqlServer TSQL, TypeScript, Angular, C, VBA, MongoDB, Assembler
-- Visit my channel:  https://www.youtube.com/c/softwarenuggets
+- Visit my YouTub Channel:  https://www.youtube.com/c/softwarenuggets
 - 📫 How to reach me by email: softwareNugget65@gmail.com
 
 <!---
